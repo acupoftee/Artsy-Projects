@@ -1,2 +1,2 @@
-# Artsy-Progects
+# Artsy-Projects
 a repo of pure imagination
